@@ -1,0 +1,16 @@
+{
+  "name": "git-worktrees",
+  "version": "0.1.0",
+  "description": "One worktree per task on its own branch, with safe cleanup that never discards work.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/git-worktrees",
+  "repository": "https://github.com/nvv-dev/git-worktrees",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
